@@ -129,6 +129,6 @@ A GenAI-powered system that automates customer query handling using the ChatGPT 
 
 **— Let's build something remarkable together!**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshinagdive)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-nagdive15/)
 
 </div>
